@@ -1,4 +1,4 @@
-class Weel:
+class Wheel:
 
     def __init__(self, rim, tire) -> None:
         self.rim = rim
